@@ -6,7 +6,7 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- Angular
+- Angular 14
 - VSCode 
 - Github
 
